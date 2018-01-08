@@ -1,1 +1,1 @@
-# ML_EDA_1
+Exploratory data analysis project one
