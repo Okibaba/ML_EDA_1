@@ -1,1 +1,1 @@
-Exploratory data analysis project one
+Exploration of cryptocurrency data
